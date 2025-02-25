@@ -10,8 +10,5 @@ inspiration for future modern applications or websites in general.
 
 - Vite
 - React.js
-<<<<<<< HEAD
 - Tailwind CSS
-=======
-- Tailwind CSS
->>>>>>> 2306a35 (Updated README with my own content)
+
